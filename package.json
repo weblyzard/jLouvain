@@ -1,0 +1,9 @@
+{
+  "name": "jlouvain",
+  "version": "1.0.0",
+  "description": "Louvain community detection for Javascript",
+  "main": "jLouvain.js",
+  "repository": "git@github.com:upphiminn/jLouvain.git",
+  "author": "Corneliu Sugar",
+  "license": "MIT"
+}
